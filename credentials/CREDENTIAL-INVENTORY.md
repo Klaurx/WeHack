@@ -1,7 +1,7 @@
 # Credential Inventory
 
 All values are redacted. This document exists so a developer can confirm every category has been rotated without needing to re-read every finding.
-You thought you were going to get credentials? Aww, grow up buddy. This ain't your daiy CTF.
+You thought you were going to get credentials? Aww, grow up buddy. 
 ---
 
 ## Database

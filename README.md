@@ -51,7 +51,10 @@ F-15  Workspace fully readable via CI interface
 ---
 
 The single most urgent action is credential rotation across every category in `credentials/CREDENTIAL-INVENTORY.md`. Hardening the infrastructure while the credentials remain valid accomplishes nothing.
+
+
 Update;
+
 When we log into a a specific account, we have the option to choose between;
 ```
 Hunan Yinbing Technology Co., Ltd. (湖南引冰科技有限公司) 
